@@ -1,0 +1,1 @@
+A simple pandas project based on the tutorial made by Keith Galli on Youtube (https://youtu.be/vmEHCJofslg), focused on basic pandas use cases such as sorting and filtering data. Written on a Jupyter Notebook.
